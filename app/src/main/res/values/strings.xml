@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestingButtonRandom</string>
+    <string name="contoh">Contoh</string>
+    <string name="score_text">Nilai: %d</string>
+</resources>
